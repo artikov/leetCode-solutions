@@ -1,5 +1,5 @@
-# LeetCode Problem Solutions Python
-Solutions of leetcode problems will be uploaded to this repository.
+# LeetCode Problem Solutions
+Solutions of leetcode problems solved with JavaScript & Python.
 
 ## Solutions
 
